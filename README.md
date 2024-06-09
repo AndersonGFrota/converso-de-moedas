@@ -26,8 +26,8 @@ A aplicação consiste em um conversor de moedas onde voce seleciona seu pais de
 # Tecnologias utilizadas
 
 ## Front end
-- HTML 
-- CSS
+- Html 
+- Css
 - JavaScript
 
 
